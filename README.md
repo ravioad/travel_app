@@ -4,7 +4,8 @@ A Flutter UI Design with animation.
 
 ## Getting Started
 
-This is a design concept for a travel app.
+This is a UI design concept for a travel app.
+
 A few resources to get you started with Flutter project:
 
 - [Simple Animation used in project](https://pub.dev/packages/simple_animations/versions/1.3.3)
